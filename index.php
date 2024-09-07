@@ -1,2 +1,2 @@
-<? 
-echo "hallo";
+<?php
+echo "INI MAIN";
